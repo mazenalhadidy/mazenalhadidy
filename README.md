@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mazenalhadidy
 - 👀 I’m interested in programming, learning, gaming.
 - 🌱 I’m currently learning cs50.
-- 💞️ I’m looking to collaborate on embedded systems or web development or app development not yet sure.
+- 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me mazenalhadidy@gmail.com
 
 <!---
