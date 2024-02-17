@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mazenalhadidy
-- 👀 I’m interested in programming, learning, gaming.
-- 🌱 I’m currently learning cs50.
+- 👀 I’m interested in programming, reading, gaming, swimming, calesthenics.
+- 🌱 I’m currently learning Almdrasa diploma after finishing cs50x.
 - 💞️ I’m looking to collaborate on web development.
-- 📫 How to reach me mazenalhadidy@gmail.com
+- 📫 How to reach me mazenalhadidy@gmail.com or +201099696877
 
 <!---
 mazenalhadidy/mazenalhadidy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
